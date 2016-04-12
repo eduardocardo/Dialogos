@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Actividad3_2</string>
+    <string name="blanco">Blanco</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="rojo">Rojo</string>
+    <string name="tv_nombre">Nombre :</string>
+    <string name="hint_nombre">Introduce nombre</string>
+    <string name="tv_edad">Edad :</string>
+    <string name="hint_edad">Introduce edad</string>
+    <string name="bt_aceptar">Aceptar</string>
+    <string name="bt_datos">Datos</string>
+    <string name="bt_color">Color</string>
+    <string name="bt_pass">Password</string>
+    <string-array name="colores">
+        <item>@string/blanco</item>
+        <item>@string/verde</item>
+        <item>@string/azul</item>
+        <item>@string/rojo</item>
+    </string-array>
+    <string name="msjNoEdad">Introduce una edad</string>
+    <string name="msjNoNombre">Introduce un nombre</string>
+    <string name="msjNoEdadNombre">Introduce nombre y edad</string>
+    <string name="msjPassAcertada">Has acertado la contraseña</string>
+    <string name="msjPassNoAcertada">Error,la clase es </string>
+</resources>
